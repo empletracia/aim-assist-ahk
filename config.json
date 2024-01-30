@@ -1,0 +1,41 @@
+{
+    "tusumi": {
+        "Binds": {
+            "Keybind": "RButton",
+            "Pause": "Esc",
+            "Reload": "R"
+        },
+        "Color": {
+            "Saturation": 10
+        },
+        "Bezier": {
+            "LinearCurveX": 0.195,
+            "LinearCurveY": 0.195
+        },
+        "Easing": {
+            "SmoothnessX": 35,
+            "SmoothnessY": 20,
+            "SmoothingReplicatorX": 5,
+            "SmoothingReplicatorY": 5,
+            "SmoothingDividerX": 250,
+            "SmoothingDividerY": 250,
+            "Prediction": {
+                "Enabled": false,
+                "Mode": "Ideal",
+                "PredictionX": 5,
+                "PredictionY": 8
+            }
+        },
+        "Misc": {
+            "AimbotUpdateTick": 600,
+            "AimbotUpdateMS": 1000,
+            "CameraToGunFOV": 85,
+            "FlickTime" : 2,
+            "KANKAN": false
+        },
+        "FOV": {
+            "FOVOffsetX": 5,
+            "FOVOffsetY": 5
+        }
+    }
+}
